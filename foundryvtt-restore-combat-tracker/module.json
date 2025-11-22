@@ -19,7 +19,8 @@
     "scripts/enable-combat.js"
   ],
   "url": "https://github.com/<your-username>/foundryvtt-restore-combat-tracker",
-  "manifest": "https://raw.githubusercontent.com/<your-username>/foundryvtt-restore-combat-tracker/main/module.json",
+  "manifest": "https://github.com/dooberdad/Foundry_VTT_Restore_Combat_Tracker/raw/refs/heads/main/foundryvtt-restore-combat-tracker/module.json",
   "download": "https://github.com/dooberdad/Foundry_VTT_Restore_Combat_Tracker/releases/download/1.0/foundryvtt-restore-combat-tracker.zip"
 
 }
+
